@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RonnyK36
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on any projects that have anything to do with font-end web development
+- 💞️ I’m looking to collaborate on any projects that have anything to do with front-end web development
 - 📫 How to reach me: ronnykelvyne3@gmail.com // +254727447786
 
 <!---
