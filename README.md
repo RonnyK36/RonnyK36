@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @RonnyK36
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on any projects that have anything to do with front-end web development
+FLUTTER MOBILE DEVELOPER
+OTHER LANGUAGES:
+ - JAVASCRIPT
+ - HTML5 & CSS3
+ - SQL
+ - PHP
 - 📫 How to reach me: ronnykelvyne3@gmail.com // +254727447786
 
 <!---
