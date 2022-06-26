@@ -7,6 +7,8 @@
 <a href="https://www.linkedin.com/in/kelvin-rono-a68736204/" target="blank"><img align="center" src="https://img.icons8.com/color/2x/linkedin-circled.png" height="40" /></a>
 <a href="https://github.com/RonnyK36/" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/2x/github.png" height="40" /></a>
 <a href="https://twitter.com/KelvyneRonny" target="blank"><img align="center" src="https://img.icons8.com/color/2x/twitter.png" height="40" /></a>
+<a href="https://www.facebook.com/mariano.kevin.75" target="blank"><img align="center" src="https://img.icons8.com/color/2x/facebook-new.png" height="40" /></a>
+<a href="https://www.instagram.com/kevin.mariano/" target="blank"><img align="center" src="https://img.icons8.com/color/2x/instagram-new.png" height="40" /></a>
 
 ## Languages, Frameworks and Databases
 
