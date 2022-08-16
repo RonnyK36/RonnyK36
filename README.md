@@ -1,5 +1,3 @@
-[![wakatime](https://wakatime.com/badge/user/f7e164e5-f636-4777-87b2-a78c85fe14c2.svg)](https://wakatime.com/@f7e164e5-f636-4777-87b2-a78c85fe14c2)
-
 ### Greeting 👋
 
 #### I'm a software developer with the passion of finding problem solving.I aim at being a great, efficient and reliable developer. I am constantly seeking to learn new technologies.
@@ -48,4 +46,4 @@ OTHER LANGUAGES:
 <!---
 RonnyK36/RonnyK36 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
----> -->
+---> 
