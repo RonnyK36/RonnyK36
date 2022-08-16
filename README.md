@@ -1,3 +1,5 @@
+[![wakatime](https://wakatime.com/badge/user/214588b9-7bb7-4150-8be2-02e9849b92b1.svg)](https://wakatime.com/@e8aea7d2-2032-43ce-a7b0-4979da615a28)
+
 ### Greeting 👋
 
 #### I'm a software developer with the passion of finding problem solving.I aim at being a great, efficient and reliable developer. I am constantly seeking to learn new technologies.
