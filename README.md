@@ -21,8 +21,8 @@
 <a href="" target="blank"><img align="center" src="https://img.icons8.com/color/2x/html-5.png" height="40" /></a>
 <a href="" target="blank"><img align="center" src="https://img.icons8.com/color/2x/css3.png" height="40" /></a>
 
-<a href="" target="blank"><img align="center" src="https://img.icons8.com/color/2x/postgreesql.png" height="40" /></a>
-<a href="" target="blank"><img align="center" src="https://img.icons8.com/color/2x/mysql.png" height="40" /></a>
+<!-- <a href="" target="blank"><img align="center" src="https://img.icons8.com/color/2x/postgreesql.png" height="40" /></a> -->
+<!-- <a href="" target="blank"><img align="center" src="https://img.icons8.com/color/2x/mysql.png" height="40" /></a> -->
 
 <a href="" target="blank"><img align="center" src="https://img.icons8.com/color/2x/python.png" height="40" /></a>
 
