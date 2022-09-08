@@ -30,7 +30,5 @@
 
 ## Git-hub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RonnyK36&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RonnyK36&layout=compact)](https://github.com/RonnyK36/RonnyK36)
+![RonnyK36's GitHub stats](https://github-readme-stats.vercel.app/api?username=RonnyK36&show_icons=true&theme=radical)
 
