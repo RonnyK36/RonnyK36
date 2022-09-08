@@ -34,18 +34,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RonnyK36&layout=compact)](https://github.com/RonnyK36/RonnyK36)
 
-<!--
-**RonnyK36/RonnyK36** is a ✨ _special_ ✨ repository because its `README.md` (this
-
-<!-- FLUTTER MOBILE DEVELOPER
-OTHER LANGUAGES:
- - JAVASCRIPT
- - HTML5 & CSS3
- - SQL
- - PHP
-- 📫 How to reach me: ronnykelvyne3@gmail.com // +254727447786
-
-<!---
-RonnyK36/RonnyK36 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
----> 
