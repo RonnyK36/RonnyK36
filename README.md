@@ -9,7 +9,7 @@
 <p align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=RonnyK36" alt="blueedge"/> </p>  </p>
 <br> -->
 
-![](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=RonnyK36)
+<!--![](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=RonnyK36)-->
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RonnyK36&theme=radical)](https://git.io/streak-stats) 
