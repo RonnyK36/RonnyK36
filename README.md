@@ -11,8 +11,9 @@
 
 <!--![](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=RonnyK36)-->
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=RonnyK36)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RonnyK36&theme=radical)](https://git.io/streak-stats) 
+<!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RonnyK36&theme=radical)](https://git.io/streak-stats) 
 
 
 
