@@ -19,7 +19,7 @@
 <!-- <a href="" target="blank"><img align="center" src="https://img.icons8.com/color/2x/postgreesql.png" height="40" /></a> -->
 <!-- <a href="" target="blank"><img align="center" src="https://img.icons8.com/color/2x/mysql.png" height="40" /></a> -->
 
-|![](https://github-readme-stats.vercel.app/api?username=RonnyK36&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=RonnyK36&layout=compact&theme=tokyonight&langs_count=10)|
+<!--|![](https://github-readme-stats.vercel.app/api?username=RonnyK36&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=RonnyK36&layout=compact&theme=tokyonight&langs_count=10)|
 |-|-|
 
-![](https://activity-graph.herokuapp.com/graph?username=RonnyK36&theme=redical)
+![](https://activity-graph.herokuapp.com/graph?username=RonnyK36&theme=redical)-->
